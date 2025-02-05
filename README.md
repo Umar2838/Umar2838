@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently doing **Bachelor's in Computer Science**
 
-- 📫 How to reach me **umaraqeel14812gmail.com**
+- 📫 How to reach me **umaraqeel1481@gmail.com**
 - 📄 Know about my experiences **https://tan-ethel-13.tiiny.site/**
 
 <div> <a href="https://www.linkedin.com/in/umar-aqeel-79b0a6245" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
